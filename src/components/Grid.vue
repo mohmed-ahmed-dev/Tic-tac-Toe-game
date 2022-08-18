@@ -27,6 +27,8 @@ export default {
     },
   },
 
+// this methods
+
   methods: {
     changePlayer() {
       this.activePlayer = this.nonActivePlayer;
